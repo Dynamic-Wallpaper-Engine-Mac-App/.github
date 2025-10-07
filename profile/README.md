@@ -14,8 +14,8 @@
 
 # Installation Instructions  
 
-1. Click The Button Above To Access The Official Source.  
-2. Follow The On-Screen Steps To Install And Launch Dynamic Wallpaper Engine On Your Mac.  
+1. Go to the website using the button above.  
+2. Follow the on-screen instructions to install and activate Dynamic Wallpaper Engine.   
 
 ---
 
